@@ -8,7 +8,8 @@ Skills: REACT / JS / HTML / CSS /Node js / MongoDB / Express
 
 - 🌱 I’m currently learning Full Stack MERN  
 - 💬 Ask me about my basic understanding 
-- 📫 How to reach me: shahriarmridharahul102524@gmail.com 
+- 📫 How to reach me: shahriarmridharahul102524@gmail.com
+- ⚡ Fun fact: bug free coding give me inner peace  
 
 <br/>  
 
