@@ -1,7 +1,7 @@
-(https://media-exp1.licdn.com/dms/image/C5616AQF2cbo1YeIqOA/profile-displaybackgroundimage-shrink_200_800/0/1621350996986?e=1668643200&v=beta&t=WBAcuVndLdGpTkrwiTMJGc0moIi32KUjNYO92L5tJVk)
-### Hi there 👋, I am Shahriar Mridha Rahul
+![passionate Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQF2cbo1YeIqOA/profile-displaybackgroundimage-shrink_200_800/0/1621350996986?e=1668643200&v=beta&t=WBAcuVndLdGpTkrwiTMJGc0moIi32KUjNYO92L5tJVk)
+# Hi there 👋, I am Shahriar Mridha Rahul
 #### passionate Full Stack Web Developer
-![passionate Full Stack Web Developer]
+
 
 I am a solution-oriented person who dreams to be an expert full stack web developer.I try to spend a good amount of time to learn web developing.
 
