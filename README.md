@@ -1,6 +1,7 @@
+(https://media-exp1.licdn.com/dms/image/C5616AQF2cbo1YeIqOA/profile-displaybackgroundimage-shrink_200_800/0/1621350996986?e=1668643200&v=beta&t=WBAcuVndLdGpTkrwiTMJGc0moIi32KUjNYO92L5tJVk)
 ### Hi there 👋, I am Shahriar Mridha Rahul
 #### passionate Full Stack Web Developer
-![passionate Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQF2cbo1YeIqOA/profile-displaybackgroundimage-shrink_200_800/0/1621350996986?e=1668643200&v=beta&t=WBAcuVndLdGpTkrwiTMJGc0moIi32KUjNYO92L5tJVk)
+![passionate Full Stack Web Developer]
 
 I am a solution-oriented person who dreams to be an expert full stack web developer.I try to spend a good amount of time to learn web developing.
 
@@ -55,7 +56,7 @@ Skills: REACT / JS / HTML / CSS /Node js / MongoDB / Express
 
 <br/>  
 
-
+## Connect with me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rahul-1504022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahriar-mridha-1088bb191/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-1504022)](https://github.com/ryo-ma/github-profile-trophy)
