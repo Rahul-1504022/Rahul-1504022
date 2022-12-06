@@ -49,8 +49,15 @@ Skills: REACT / JS / HTML / CSS /Node js / MongoDB / Express
 
 <br/>  
 
-## Connect with me 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rahul-1504022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahriar-mridha-1088bb191/)  
+## Connect with me
+<div align="left">
+<a href="https://github.com/Rahul-1504022" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/shahriar-mridha-1088bb191/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-1504022)](https://github.com/ryo-ma/github-profile-trophy)
 
