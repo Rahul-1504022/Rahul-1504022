@@ -1,4 +1,6 @@
-![passionate Full Stack Web Developer]([https://media-exp1.licdn.com/dms/image/C5616AQF2cbo1YeIqOA/profile-displaybackgroundimage-shrink_200_800/0/1621350996986?e=1668643200&v=beta&t=WBAcuVndLdGpTkrwiTMJGc0moIi32KUjNYO92L5tJVk](https://previews.dropbox.com/p/thumb/ABtvaV6SYmX-5w5vl42p_d9k4VhqExY1g_ILvgWFWZ6hQ-MOupsCEWYeHyvxPwFh-tT26EMKcl6G61To3Lj8Eq02H-BDsaxC3sJs22L1n4YRAeeyR6Dp4lPZ2HP6ujjjd2Ih01bbwl_QSJtJvbmkhvzjImhrf4HRg-WXTOKMk79UOeiy-NTr0H63-xt4DF2lDZvu6S8IrvmpBiZKRzJA-una6JEZ6mDfC5xnSUvRnvj8auQb9aMM5tzIwG2uVCkNHoF7WB7y-MacrvVWOXgORDfi3IsD9OlC-Juq7CFu5Z07zXt0Fp7nVGXEypU7CVwlBmnUueg-WRhIWKlUynF5oTuGMI0XbUaaUvPBlLPiL03KDku4Ki-uot7a7l9TEYml7uc/p.jpeg))
+<div align="center">
+<img src="https://previews.dropbox.com/p/thumb/ABtvaV6SYmX-5w5vl42p_d9k4VhqExY1g_ILvgWFWZ6hQ-MOupsCEWYeHyvxPwFh-tT26EMKcl6G61To3Lj8Eq02H-BDsaxC3sJs22L1n4YRAeeyR6Dp4lPZ2HP6ujjjd2Ih01bbwl_QSJtJvbmkhvzjImhrf4HRg-WXTOKMk79UOeiy-NTr0H63-xt4DF2lDZvu6S8IrvmpBiZKRzJA-una6JEZ6mDfC5xnSUvRnvj8auQb9aMM5tzIwG2uVCkNHoF7WB7y-MacrvVWOXgORDfi3IsD9OlC-Juq7CFu5Z07zXt0Fp7nVGXEypU7CVwlBmnUueg-WRhIWKlUynF5oTuGMI0XbUaaUvPBlLPiL03KDku4Ki-uot7a7l9TEYml7uc/p.jpeg" align="center" style="width: 100%" />
+</div>
 # Hi there 👋, I am Shahriar Mridha Rahul
 #### passionate Full Stack Web Developer
 
